@@ -16,7 +16,7 @@ Searching IP Space:
 python censys.py -f 216.239.32.0/24
 
 #Demo
-<img src="https://raw.githubusercontent.com/jgamblin/btrecon/master/btrecon.gif"">
+<img src="https://github.com/jgamblin/censys/blob/master/censys.gif"">
 
 #Notes
 The API limit is pretty low so it may start throwing errors if you scan wide ranges. 
